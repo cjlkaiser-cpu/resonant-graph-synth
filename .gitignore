@@ -1,0 +1,23 @@
+# Build
+build/
+cmake-build-*/
+
+# IDE
+.idea/
+.vscode/
+*.xcodeproj/
+*.xcworkspace/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# JUCE generated
+JuceLibraryCode/
+
+# Compiled
+*.o
+*.a
+*.dylib
+*.so
+*.dll
